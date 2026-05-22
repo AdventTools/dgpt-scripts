@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Date personale (nume reale) — NU urca pe git
+# Pastram doar .gitkeep ca folderul sa apara dupa clone.
+data/*
+!data/.gitkeep
+temp/*
+!temp/.gitkeep
+
+# Output regenerabil din scripturi
+output/*
+!output/.gitkeep
+reports/
+
+# Lockfile Excel (cand fisierul e deschis)
+~$*
