@@ -17,3 +17,9 @@ reports/
 
 # Lockfile Excel (cand fisierul e deschis)
 ~$*
+.claude/
+.vscode/
+CLAUDE.md
+CLAUDE.local.md
+copilot-instructions.md
+COPILOT-INSTRUCTIONS.md
